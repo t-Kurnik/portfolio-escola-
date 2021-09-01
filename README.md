@@ -4,7 +4,9 @@
 
   - Assunto: Ações desenvolvidadas para o MMR.
 
-  - Página Inicial [https://elianafischer.github.io/]:
+  - Site: https://elianafischer.github.io/
+
+  - Página Inicial:
 
   <img src="https://github.com/t-Kurnik/portfolio-escola-/blob/main/site-imagens/home.PNG">
 
