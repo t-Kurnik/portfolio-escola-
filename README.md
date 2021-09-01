@@ -6,5 +6,5 @@
 
 - Página Inicial:
 
-<img width="600" height="600" src="https://github.com/t-Kurnik/portfolio-escola-/blob/main/site-imagens/home.PNG">
+<img src="https://github.com/t-Kurnik/portfolio-escola-/blob/main/site-imagens/home.PNG">
 
